@@ -1,0 +1,3 @@
+class PrivateMassage < ApplicationRecord
+    
+end
